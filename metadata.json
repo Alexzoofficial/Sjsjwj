@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Dubbing Studio",
+  "description": "An advanced web application to translate, time-align, and dub the audio of a source YouTube video into a target language. It maintains character distinctions, emotional tones, and natural pacing, producing high-quality dubbed audio, video, and subtitles.",
+  "requestFramePermissions": []
+}
